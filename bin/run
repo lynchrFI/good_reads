@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+require_relative "../lib/good_reads.rb"
